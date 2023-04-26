@@ -1,0 +1,9 @@
+.whitespace{
+    white-space: nowrap;
+}
+.navigation>li:hover{
+    background-color: whitesmoke;
+}
+.divhover>div:hover{
+    background-color: whitesmoke;
+}
